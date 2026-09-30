@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-snyk/commit/2a41a07f81e45125bf82a19af1b13396ace4b81f",
       "git:hexsha": "2a41a07f81e45125bf82a19af1b13396ace4b81f",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-09-30T07:09:59.884179+00:00"
     }
   ]
 }
