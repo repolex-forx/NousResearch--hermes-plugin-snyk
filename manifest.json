@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-snyk",
+  "versions": [
+    {
+      "commit": "2a41a07f81e45125bf82a19af1b13396ace4b81f",
+      "parsed_at": "2026-09-30T07:05:08.706769+00:00",
+      "tag": "main",
+      "filetree": "filetree/2a41a07f81e45125bf82a19af1b13396ace4b81f.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/5cd142e64e1f96da97bd3d44d1bb91c428372271.nq.gz",
+        "blob/a1bd7784c437a8adc9427637298714a3261ad6c2.nq.gz",
+        "blob/2b9e73b53f01cb2a635d6910c99925fb3a8d5532.nq.gz",
+        "blob/04e2c83c95630a5925666e499d5eae2c7e1c93ea.nq.gz",
+        "blob/b083f68e41cca04440eae83df5b36b1753e30951.nq.gz",
+        "blob/64777da0fbb4b64e1c9bd2c05af650b9d8497a17.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
